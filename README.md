@@ -6,7 +6,7 @@
 - https://github.com/StevenGrove/GPT4Tools
 - https://github.com/microsoft/JARVIS
 - https://docs.langchain.com/docs/
-- 
+- https://github.com/allenai/visprog
 
 ## Blogs
 
