@@ -8,6 +8,27 @@ Awesome-LLM4Tool is a curated list of the papers, repositories, tutorials, and a
 
 ## Projects
 
+
+[![Star](https://img.shields.io/github/stars/ShishirPatil/gorilla.svg?style=social&label=Star)](https://github.com/ShishirPatil/gorilla)
+</br>
+[🦍 Gorilla: Large Language Model Connected with Massive APIs](https://arxiv.org/abs/2305.15334)
+</br>
+Shishir G. Patil*, Tianjun Zhang*, Xin Wang, Joseph E. Gonzalez
+</br>
+[[`arXiv`](https://arxiv.org/abs/2305.15334)] [[`Project Page`](https://shishirpatil.github.io/gorilla/)] [[`Code`](https://github.com/ShishirPatil/gorilla)]
+</br>
+May 24 2023
+
+[![Star](https://img.shields.io/github/stars/OpenGVLab/InternGPT.svg?style=social&label=Star)](https://github.com/OpenGVLab/InternGPT)
+</br>
+[InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language](https://arxiv.org/abs/2305.05662)
+</br>
+Zhaoyang Liu, Yinan He, Wenhai Wang, Weiyun Wang, Yi Wang, Shoufa Chen, Qinglong Zhang, Zeqiang Lai, Yang Yang, Qingyun Li, Jiashuo Yu, Kunchang Li, Zhe Chen, Xue Yang, Xizhou Zhu, Yali Wang, Limin Wang, Ping Luo, Jifeng Dai, Yu Qiao
+</br>
+[[`arXiv`](https://arxiv.org/abs/2305.05662)] [[`Project Page`](https://igpt.opengvlab.com/)] [[`Code`](https://github.com/OpenGVLab/InternGPT)]
+</br>
+May 9 2023
+
 [![Star](https://img.shields.io/github/stars/StevenGrove/GPT4Tools.svg?style=social&label=Star)](https://github.com/StevenGrove/GPT4Tools)
 </br>
 [GPT4Tools: Teaching LLM to Use Tools via Self-instruction](http://arxiv.org/abs/2305.18752)
@@ -42,11 +63,15 @@ Mar 30 2023
 </br>
 [Visual Programming: Compositional Visual Reasoning without Training](https://arxiv.org/abs/2211.11559)
 </br>
-Lin Song, Yanwei Li, Rui Yang, Sijie Zhao, Yixiao Ge, Ying Shan
+Tanmay Gupta, Aniruddha Kembhavi
 </br>
 [[`arXiv`](https://arxiv.org/abs/2211.11559)] [[`Code`](https://github.com/allenai/visprog)]
 </br>
 Nov 18 2022
+
+
+
+
 
 
 ## Blogs
