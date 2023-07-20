@@ -29,7 +29,6 @@ Qiantong Xu, Fenglu Hong, Bo Li, Changran Hu, Zhengyu Chen, Jian Zhang
 </br>
 May 25 2023
 
-
 [![Star](https://img.shields.io/github/stars/ShishirPatil/gorilla.svg?style=social&label=Star)](https://github.com/ShishirPatil/gorilla)
 </br>
 [🦍 Gorilla: Large Language Model Connected with Massive APIs](https://arxiv.org/abs/2305.15334)
@@ -39,6 +38,16 @@ Shishir G. Patil*, Tianjun Zhang*, Xin Wang, Joseph E. Gonzalez
 [[`arXiv`](https://arxiv.org/abs/2305.15334)] [[`Project Page`](https://shishirpatil.github.io/gorilla/)] [[`Code`](https://github.com/ShishirPatil/gorilla)]
 </br>
 May 24 2023
+
+[![Star](https://img.shields.io/github/stars/Ber666/ToolkenGPT.svg?style=social&label=Star)](https://github.com/Ber666/ToolkenGPT)
+</br>
+[ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings](https://arxiv.org/abs/2305.11554)
+</br>
+Shibo Hao, Tianyang Liu, Zhen Wang, Zhiting Hu
+</br>
+[[`arXiv`](https://arxiv.org/abs/2305.11554)] [[`Code`](https://github.com/Ber666/ToolkenGPT)]
+</br>
+May 19 2023
 
 [![Star](https://img.shields.io/github/stars/OpenGVLab/InternGPT.svg?style=social&label=Star)](https://github.com/OpenGVLab/InternGPT)
 </br>
