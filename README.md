@@ -8,6 +8,17 @@ Awesome-LLM4Tool is a curated list of the papers, repositories, tutorials, and a
 
 ## Papers
 
+
+[![Star](https://img.shields.io/github/stars/night-chen/ToolQA.svg?style=social&label=Star)](https://github.com/night-chen/ToolQA)
+</br>
+[ToolQA: A Dataset for LLM Question Answering with External Tools](https://arxiv.org/abs/2306.13304)
+</br>
+Yuchen Zhuang, Yue Yu, Kuan Wang, Haotian Sun, Chao Zhang
+</br>
+[[`arXiv`](https://arxiv.org/abs/2306.13304)] [[`Code`](https://github.com/night-chen/ToolQA)]
+</br>
+June 23 2023
+
 [![Star](https://img.shields.io/github/stars/sambanova/toolbench.svg?style=social&label=Star)](https://github.com/sambanova/toolbench)
 </br>
 [On the Tool Manipulation Capability of Open-source Large Language Models](https://arxiv.org/abs/2305.16504)
