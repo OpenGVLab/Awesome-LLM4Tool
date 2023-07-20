@@ -6,7 +6,18 @@
 Awesome-LLM4Tool is a curated list of the papers, repositories, tutorials, and anythings related to the large language models for tools. 
 
 
-## Projects
+## Papers
+
+[![Star](https://img.shields.io/github/stars/sambanova/toolbench.svg?style=social&label=Star)](https://github.com/sambanova/toolbench)
+</br>
+[On the Tool Manipulation Capability of Open-source Large Language Models](https://arxiv.org/abs/2305.16504)
+</br>
+Qiantong Xu, Fenglu Hong, Bo Li, Changran Hu, Zhengyu Chen, Jian Zhang
+</br>
+[[`arXiv`](https://arxiv.org/abs/2305.16504)] [[`Code`](https://github.com/sambanova/toolbench)]
+</br>
+May 25 2023
+
 
 [![Star](https://img.shields.io/github/stars/ShishirPatil/gorilla.svg?style=social&label=Star)](https://github.com/ShishirPatil/gorilla)
 </br>
@@ -48,6 +59,15 @@ Haotian Liu*, Chunyuan Li*, Qingyang Wu, Yong Jae Lee
 </br>
 April 18 2023
 
+
+[API-Bank: A Benchmark for Tool-Augmented LLMs](https://arxiv.org/abs/2304.08244)
+</br>
+Minghao Li, Feifan Song, Bowen Yu, Haiyang Yu, Zhoujun Li, Fei Huang, Yongbin Li
+</br>
+[[`arXiv`](https://arxiv.org/abs/2304.08244)] 
+</br>
+April 14 2023
+
 [![Star](https://img.shields.io/github/stars/microsoft/JARVIS.svg?style=social&label=Star)](https://github.com/microsoft/JARVIS)
 </br>
 [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](http://arxiv.org/abs/2303.17580)
@@ -79,7 +99,6 @@ Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Lu
 </br>
 9 Feb 2023
 
-
 [![Star](https://img.shields.io/github/stars/allenai/visprog.svg?style=social&label=Star)](https://github.com/allenai/visprog)
 </br>
 [Visual Programming: Compositional Visual Reasoning without Training](https://arxiv.org/abs/2211.11559)
@@ -90,6 +109,14 @@ Tanmay Gupta, Aniruddha Kembhavi
 </br>
 Nov 18 2022
 
+[TALM: Tool Augmented Language Models](https://arxiv.org/abs/2205.12255)
+</br>
+Aaron Parisi, Yao Zhao, Noah Fiedel
+</br>
+[[`arXiv`](https://arxiv.org/abs/2205.12255)] 
+</br>
+May 24 2022
+
 
 [MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning](https://arxiv.org/abs/2205.00445)
 </br>
@@ -99,6 +126,9 @@ Ehud Karpas, Omri Abend, Yonatan Belinkov, Barak Lenz, Opher Lieber, Nir Ratner,
 </br>
 May 1 2022
 
+## Projects
+
+- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
 
 ## Blogs
