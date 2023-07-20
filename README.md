@@ -6,8 +6,7 @@
 Awesome-LLM4Tool is a curated list of the papers, repositories, tutorials, and anythings related to the large language models for tools. 
 
 
-## Projects
-
+## Systems
 
 [![Star](https://img.shields.io/github/stars/ShishirPatil/gorilla.svg?style=social&label=Star)](https://github.com/ShishirPatil/gorilla)
 </br>
@@ -59,6 +58,17 @@ Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu and Yueting Zhuang
 </br>
 Mar 30 2023
 
+[![Star](https://img.shields.io/github/stars/lucidrains/toolformer-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/toolformer-pytorch)
+</br>
+[Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
+</br>
+Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom
+</br>
+[[`arXiv`](https://arxiv.org/abs/2302.04761)] [[`Code`](https://github.com/lucidrains/toolformer-pytorch)]
+</br>
+9 Feb 2022
+
+
 [![Star](https://img.shields.io/github/stars/allenai/visprog.svg?style=social&label=Star)](https://github.com/allenai/visprog)
 </br>
 [Visual Programming: Compositional Visual Reasoning without Training](https://arxiv.org/abs/2211.11559)
@@ -70,7 +80,13 @@ Tanmay Gupta, Aniruddha Kembhavi
 Nov 18 2022
 
 
-
+[MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning](https://arxiv.org/abs/2205.00445)
+</br>
+Ehud Karpas, Omri Abend, Yonatan Belinkov, Barak Lenz, Opher Lieber, Nir Ratner, Yoav Shoham, Hofit Bata, Yoav Levine, Kevin Leyton-Brown, Dor Muhlgay, Noam Rozen, Erez Schwartz, Gal Shachaf, Shai Shalev-Shwartz, Amnon Shashua, Moshe Tenenholtz
+</br>
+[[`arXiv`](https://arxiv.org/abs/2205.00445)] [[`Code`](https://github.com/hwchase17/langchain/tree/master/langchain/agents/mrkl)]
+</br>
+May 1 2022
 
 
 
