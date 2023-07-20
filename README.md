@@ -129,7 +129,7 @@ May 1 2022
 ## Projects
 
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
-
+- [semantic-kernel](https://github.com/microsoft/semantic-kernel)
 
 ## Blogs
 
