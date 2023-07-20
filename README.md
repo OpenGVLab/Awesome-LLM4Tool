@@ -6,7 +6,7 @@
 Awesome-LLM4Tool is a curated list of the papers, repositories, tutorials, and anythings related to the large language models for tools. 
 
 
-## Systems
+## Projects
 
 [![Star](https://img.shields.io/github/stars/ShishirPatil/gorilla.svg?style=social&label=Star)](https://github.com/ShishirPatil/gorilla)
 </br>
@@ -57,6 +57,17 @@ Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu and Yueting Zhuang
 [[`arXiv`](http://arxiv.org/abs/2303.17580)] [[`Huggingface`](https://huggingface.co/spaces/microsoft/HuggingGPT)] [[`Code`](https://github.com/microsoft/JARVIS)]
 </br>
 Mar 30 2023
+
+[![Star](https://img.shields.io/github/stars/microsoft/TaskMatrix.svg?style=social&label=Star)](https://github.com/microsoft/TaskMatrix)
+</br>
+[Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671)
+</br>
+Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan
+</br>
+[[`arXiv`](https://arxiv.org/abs/2303.04671)] [[`Huggingface`](https://huggingface.co/spaces/microsoft/visual_chatgpt)] [[`Code`](https://github.com/microsoft/TaskMatrix)]
+</br>
+Mar 8 2023
+
 
 [![Star](https://img.shields.io/github/stars/lucidrains/toolformer-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/toolformer-pytorch)
 </br>
