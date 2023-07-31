@@ -146,6 +146,16 @@ Ehud Karpas, Omri Abend, Yonatan Belinkov, Barak Lenz, Opher Lieber, Nir Ratner,
 </br>
 May 1 2022
 
+[![Star](https://img.shields.io/github/stars/zjunlp/TRICE.svg?style=social&label=Star)](https://github.com/zjunlp/TRICE)
+</br>
+[Making Language Models Better Tool Learners with Execution Feedback](https://arxiv.org/abs/2305.13068)
+</br>
+Shuofei Qiao, Honghao Gui, Huajun Chen, Ningyu Zhang
+</br>
+[[`arXiv`](https://arxiv.org/abs/2305.13068)] [[`Code`](https://github.com/zjunlp/TRICE)]
+</br>
+May 22 2023
+
 ## Projects
 
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
