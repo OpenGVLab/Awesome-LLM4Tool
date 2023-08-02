@@ -8,6 +8,15 @@ Awesome-LLM4Tool is a curated list of the papers, repositories, tutorials, and a
 
 ## Papers
 
+[![Star](https://img.shields.io/github/stars/OpenBMB/ToolBench.svg?style=social&label=Star)](https://github.com/OpenBMB/ToolBench)
+</br>
+[ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs](https://arxiv.org/abs/2307.16789)
+</br>
+Yujia Qin, Shihao Liang, Yining Ye, Kunlun Zhu, Lan Yan, Yaxi Lu, Yankai Lin, Xin Cong, Xiangru Tang, Bill Qian, Sihan Zhao, Runchu Tian, Ruobing Xie, Jie Zhou, Mark Gerstein, Dahai Li, Zhiyuan Liu, Maosong Sun
+</br>
+[[`arXiv`](https://arxiv.org/abs/2307.16789)] [[`Code`](https://github.com/OpenBMB/ToolBench)]
+</br>
+July 31 2023
 
 [![Star](https://img.shields.io/github/stars/night-chen/ToolQA.svg?style=social&label=Star)](https://github.com/night-chen/ToolQA)
 </br>
@@ -89,6 +98,16 @@ Haotian Liu*, Chunyuan Li*, Qingyang Wu, Yong Jae Lee
 </br>
 April 18 2023
 
+
+[![Star](https://img.shields.io/github/stars/OpenBMB/BMTools.svg?style=social&label=Star)](https://github.com/OpenBMB/BMTools)
+</br>
+[Tool Learning with Foundation Models](https://arxiv.org/abs/2304.08354)
+</br>
+Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Yufei Huang, Chaojun Xiao, Chi Han, Yi Ren Fung, Yusheng Su, Huadong Wang, Cheng Qian, Runchu Tian, Kunlun Zhu, Shihao Liang, Xingyu Shen, Bokai Xu, Zhen Zhang, Yining Ye, Bowen Li, Ziwei Tang, Jing Yi, Yuzhang Zhu, Zhenning Dai, Lan Yan, Xin Cong, Yaxi Lu, Weilin Zhao, Yuxiang Huang, Junxi Yan, Xu Han, Xian Sun, Dahai Li, Jason Phang, Cheng Yang, Tongshuang Wu, Heng Ji, Zhiyuan Liu, Maosong Sun
+</br>
+[[`arXiv`](https://arxiv.org/abs/2304.08354)] [[`Code`](https://github.com/OpenBMB/BMTools)]
+</br>
+April 17 2023
 
 [API-Bank: A Benchmark for Tool-Augmented LLMs](https://arxiv.org/abs/2304.08244)
 </br>
