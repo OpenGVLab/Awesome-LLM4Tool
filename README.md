@@ -8,6 +8,15 @@ Awesome-LLM4Tool is a curated list of the papers, repositories, tutorials, and a
 
 ## Papers
 
+
+[Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models](https://arxiv.org/abs/2308.00675)
+</br>
+Cheng-Yu Hsieh, Si-An Chen, Chun-Liang Li, Yasuhisa Fujii, Alexander Ratner, Chen-Yu Lee, Ranjay Krishna, Tomas Pfister
+</br>
+[[`arXiv`](https://arxiv.org/abs/2308.00675)] 
+</br>
+Aug 1 2023
+
 [![Star](https://img.shields.io/github/stars/OpenBMB/ToolBench.svg?style=social&label=Star)](https://github.com/OpenBMB/ToolBench)
 </br>
 [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs](https://arxiv.org/abs/2307.16789)
