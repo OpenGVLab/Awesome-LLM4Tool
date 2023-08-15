@@ -190,7 +190,7 @@ May 1 2022
 
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 - [semantic-kernel](https://github.com/microsoft/semantic-kernel)
-- [Embedchain](https://github.com/embedchain/embedchain)
+- [Embedchain](https://github.com/embedchain/embedchain) [![Star](https://img.shields.io/github/stars/embedchain/embedchain.svg?style=social)](https://embedchain.ai/)
 
 ## Blogs
 
