@@ -3,11 +3,18 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Awesome LLM4Tool](https://img.shields.io/badge/Awesome-LLM4Tool-blue)](https://github.com/topics/awesome)
 
-Awesome-LLM4Tool is a curated list of the papers, repositories, tutorials, and anythings related to the large language models for tools. 
+Awesome-LLM4Tool is a curated list of papers, repositories, tutorials, and anything related to the large language models for tools. 
 
 
 ## Papers
 
+[TPTU: Task Planning and Tool Usage of Large Language Model-based AI Agents](https://arxiv.org/abs/2308.03427)
+</br>
+Jingqing Ruan, Yihong Chen, Bin Zhang, Zhiwei Xu, Tianpeng Bao, Guoqing Du, Shiwei Shi, Hangyu Mao, Xingyu Zeng, Rui Zhao
+</br>
+[[`arXiv`](https://arxiv.org/abs/2308.03427)] 
+</br>
+Aug 7 2023
 
 [Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models](https://arxiv.org/abs/2308.00675)
 </br>
